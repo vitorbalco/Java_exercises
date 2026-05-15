@@ -17,7 +17,7 @@ import java.util.Scanner;
 
     if (media <= 5) {
         System.out.println("Por conta disso, Reprovado");
-    } else if (media < 6.9) {
+    } else if (media <= 6.9) {
         System.out.println("Dito isso, Recuperação. Te vejo no Natal hahaha");
     } else {
             System.out.println("Aprovado com sucesso!!");
