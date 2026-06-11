@@ -4,7 +4,9 @@ out/
 !**/src/test/**/out/
 .kotlin
 *.iml
-java_teste/teste/.idea
+.idea/
+**/__pycache__/
+*.xml
 ### Eclipse ###
 .apt_generated
 .classpath
